@@ -2,7 +2,7 @@
 
 /**
  * @ngdoc overview
- * @name mytodoApp
+ * @name angular-todo
  * @description
  * # mytodoApp
  *
