@@ -1,4 +1,6 @@
 # Angular TODO
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/angular-todo.svg)](https://greenkeeper.io/)
 ToDo list app built with Angular and Express
 
 ### Clone Repository
